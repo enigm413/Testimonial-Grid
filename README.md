@@ -14,19 +14,19 @@ The component displays a dynamic grid of testimonial cards featuring:
 
 ### Desktop Preview
 
-![Desktop Preview](./Images/screenshots/desktop-preview.png)
+![Desktop Preview](./Images/Screenshots/desktop-preview.png)
 
 ### Large Tablet Preview
 
-![Large Tablet Preview](./Images/screenshots/large-tablet-preview.png)
+![Large Tablet Preview](./Images/Screenshots/large-tablet-preview.png)
 
 ### Small Tablet Preview
 
-![Small Tablet Preview](./Images/screenshots/small-tablet-preview.png)
+![Small Tablet Preview](./Images/Screenshots/small-tablet-preview.png)
 
 ### Mobile Preview
 
-![Mobile Preview](./Images/screenshots/mobile-preview.png)
+![Mobile Preview](./Images/Screenshots/mobile-preview.png)
 
 ## Features
 
