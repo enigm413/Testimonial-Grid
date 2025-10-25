@@ -18,11 +18,11 @@ The component displays a dynamic grid of testimonial cards featuring:
 
 ### Large Tablet Preview
 
-![Tablet Preview](./Images/screenshots/tablet-preview.png)
+![Large Tablet Preview](./Images/screenshots/large-tablet-preview.png)
 
 ### Small Tablet Preview
 
-![Tablet Preview](./Images/screenshots/tablet-preview.png)
+![Small Tablet Preview](./Images/screenshots/small-tablet-preview.png)
 
 ### Mobile Preview
 
